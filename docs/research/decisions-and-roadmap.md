@@ -2,7 +2,7 @@
 
 ## Confirmed direction
 
-Alek's clarification, relayed by the project owner, establishes **simApp-first**. Every selected application defaults to a functional simulated UI, even if its real API exists. Implement the full UI behavior needed for the selected workflow; this does not require cloning every unrelated feature of the product. simMCP can be added later where the application supports suitable MCP capabilities, as an optimization over the same domain state. If MCP is unavailable or limited, the full simulated UI stays primary.
+After clarification, establishes **simApp-first**. Every selected application defaults to a functional simulated UI, even if its real API exists. Implement the full UI behavior needed for the selected workflow; this does not require cloning every unrelated feature of the product. simMCP can be added later where the application supports suitable MCP capabilities, as an optimization over the same domain state. If MCP is unavailable or limited, the full simulated UI stays primary.
 
 Google Drive is the first simApp. Docs and Sheets must be represented as files in its future scope. The original API/CLI/MCP research remains evidence for business semantics, permissions, data models and optional future integration fidelity. It no longer selects an API-first execution strategy. The repository's pre-existing generic HTTP simApp operations are a backend baseline, not the newly required accessible application UI.
 
@@ -10,7 +10,7 @@ Google Drive is the first simApp. Docs and Sheets must be represented as files i
 
 Retain authoritative run-local domain state, UI over domain operations, private outcome predicates and isolated candidate execution. Proposed durable state/resume, logical time, event/fault scheduling and broader application models are specified in [Task 3](task3/proposed-simulation-architecture.md), not implemented here. UI fidelity, business-state correctness and optional simMCP performance should be reported separately.
 
-DFS is Alek's exploration analogy, not a confirmed technical requirement. A useful proposed record is an observed state node plus authorized action edge and verified/inconclusive outcome. Stable semantic identity must not be confused with transient AX child paths. Ask whether actual DFS search, conceptual exploration or a coverage metric is intended before choosing an algorithm; no autonomous backtracking or retry policy follows from this comment.
+DFS is a exploration analogy, not a confirmed technical requirement. A useful proposed record is an observed state node plus authorized action edge and verified/inconclusive outcome. Stable semantic identity must not be confused with transient AX child paths. Ask whether actual DFS search, conceptual exploration or a coverage metric is intended before choosing an algorithm; no autonomous backtracking or retry policy follows from this comment.
 
 ## Delivery gates
 
