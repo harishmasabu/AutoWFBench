@@ -1,0 +1,108 @@
+[
+  {
+    "argv": [
+      "<BLINDLY4_BINARY>",
+      "apps"
+    ],
+    "started": "2026-10-11T10:46:26.875077+00:00",
+    "ended": "2026-10-11T10:46:26.911588+00:00",
+    "exit_code": 0,
+    "stdout_sha256": "d370a3e3ac580b433e99c63d29fa453194929246ac16617df3645e07d0a59a6d"
+  },
+  {
+    "argv": [
+      "<BLINDLY4_BINARY>",
+      "tree",
+      "--pid",
+      "<CHROME_PID>",
+      "--depth",
+      "24",
+      "--max-nodes",
+      "5000"
+    ],
+    "started": "2026-10-11T10:46:26.912082+00:00",
+    "ended": "2026-10-11T10:46:27.162768+00:00",
+    "exit_code": 0,
+    "stdout_sha256": "111a347a83a24cce6c528d0ee24c9b6918a9682b76c3866735e24c57dfdfbd5a"
+  },
+  {
+    "argv": [
+      "<BLINDLY4_BINARY>",
+      "find",
+      "--pid",
+      "<CHROME_PID>",
+      "--title",
+      "New",
+      "--role",
+      "AXButton",
+      "--depth",
+      "24",
+      "--limit",
+      "25"
+    ],
+    "started": "2026-10-11T10:46:27.170782+00:00",
+    "ended": "2026-10-11T10:46:27.291224+00:00",
+    "exit_code": 0,
+    "stdout_sha256": "be02c26d5f3ab2838f77a7510c9fe4849dec7f09bf8114086d37203335cb602c"
+  },
+  {
+    "argv": [
+      "<BLINDLY4_BINARY>",
+      "inspect",
+      "--pid",
+      "<CHROME_PID>",
+      "--path",
+      "3.0.0.0.0.0.0.1.0.0.2.2.0"
+    ],
+    "started": "2026-10-11T10:46:27.291437+00:00",
+    "ended": "2026-10-11T10:46:27.309338+00:00",
+    "exit_code": 0,
+    "stdout_sha256": "40dc486f5fbb572a653127a2b5c356bb79c54ee2a2f38732929f36ae36aa523d"
+  },
+  {
+    "argv": [
+      "<BLINDLY4_BINARY>",
+      "show-menu",
+      "--pid",
+      "<CHROME_PID>",
+      "--path",
+      "3.0.0.0.0.0.0.1.0.0.2.2.0"
+    ],
+    "started": "2026-10-11T10:46:27.309766+00:00",
+    "ended": "2026-10-11T10:46:27.327839+00:00",
+    "exit_code": 0,
+    "stdout_sha256": "d76605fba4ad2c2ac707fd14be3c3347b72f14a476d58ad7415c2d4ea41b3c10"
+  },
+  {
+    "argv": [
+      "<BLINDLY4_BINARY>",
+      "tree",
+      "--pid",
+      "<CHROME_PID>",
+      "--depth",
+      "24",
+      "--max-nodes",
+      "5000"
+    ],
+    "started": "2026-10-11T10:46:27.328062+00:00",
+    "ended": "2026-10-11T10:46:27.540236+00:00",
+    "exit_code": 0,
+    "stdout_sha256": "111a347a83a24cce6c528d0ee24c9b6918a9682b76c3866735e24c57dfdfbd5a"
+  },
+  {
+    "argv": [
+      "<BLINDLY4_BINARY>",
+      "tree",
+      "--pid",
+      "<CHROME_PID>",
+      "--depth",
+      "24",
+      "--max-nodes",
+      "5000"
+    ],
+    "started": "2026-10-11T10:46:28.551686+00:00",
+    "ended": "2026-10-11T10:46:28.823789+00:00",
+    "exit_code": 0,
+    "stdout_sha256": "111a347a83a24cce6c528d0ee24c9b6918a9682b76c3866735e24c57dfdfbd5a"
+  }
+]

@@ -1,0 +1,2188 @@
+{
+  "tree": {
+    "role": "AXApplication",
+    "children": [
+      {
+        "enabled": true,
+        "focused": false,
+        "role": "AXMenuBar",
+        "selected": false,
+        "children": [
+          {
+            "enabled": true,
+            "focused": false,
+            "role": "AXMenuBarItem",
+            "selected": false,
+            "children": [
+              {
+                "enabled": true,
+                "focused": false,
+                "role": "AXMenu",
+                "selected": false,
+                "children": [
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false,
+                    "children": [
+                      {
+                        "enabled": true,
+                        "focused": false,
+                        "role": "AXMenu",
+                        "selected": false,
+                        "children": [
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "enabled": true,
+            "focused": false,
+            "role": "AXMenuBarItem",
+            "selected": false,
+            "children": [
+              {
+                "enabled": true,
+                "focused": false,
+                "role": "AXMenu",
+                "selected": false,
+                "children": [
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false,
+                    "children": [
+                      {
+                        "enabled": true,
+                        "focused": false,
+                        "role": "AXMenu",
+                        "selected": false,
+                        "children": [
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "enabled": true,
+            "focused": false,
+            "role": "AXMenuBarItem",
+            "selected": false,
+            "children": [
+              {
+                "enabled": true,
+                "focused": false,
+                "role": "AXMenu",
+                "selected": false,
+                "children": [
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false,
+                    "children": [
+                      {
+                        "enabled": true,
+                        "focused": false,
+                        "role": "AXMenu",
+                        "selected": false,
+                        "children": [
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "enabled": true,
+            "focused": false,
+            "role": "AXMenuBarItem",
+            "selected": false,
+            "children": [
+              {
+                "enabled": true,
+                "focused": false,
+                "role": "AXMenu",
+                "selected": false,
+                "children": [
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false,
+                    "children": [
+                      {
+                        "enabled": true,
+                        "focused": false,
+                        "role": "AXMenu",
+                        "selected": false,
+                        "children": [
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false,
+                    "children": [
+                      {
+                        "enabled": true,
+                        "focused": false,
+                        "role": "AXMenu",
+                        "selected": false,
+                        "children": [
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false,
+                    "children": [
+                      {
+                        "enabled": true,
+                        "focused": false,
+                        "role": "AXMenu",
+                        "selected": false,
+                        "children": [
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false,
+                    "children": [
+                      {
+                        "enabled": true,
+                        "focused": false,
+                        "role": "AXMenu",
+                        "selected": false,
+                        "children": [
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false,
+                    "children": [
+                      {
+                        "enabled": true,
+                        "focused": false,
+                        "role": "AXMenu",
+                        "selected": false,
+                        "children": [
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false,
+                    "children": [
+                      {
+                        "enabled": true,
+                        "focused": false,
+                        "role": "AXMenu",
+                        "selected": false,
+                        "children": [
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "enabled": true,
+            "focused": false,
+            "role": "AXMenuBarItem",
+            "selected": false,
+            "children": [
+              {
+                "enabled": true,
+                "focused": false,
+                "role": "AXMenu",
+                "selected": false,
+                "children": [
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false,
+                    "children": [
+                      {
+                        "enabled": true,
+                        "focused": false,
+                        "role": "AXMenu",
+                        "selected": false,
+                        "children": [
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "enabled": true,
+            "focused": false,
+            "role": "AXMenuBarItem",
+            "selected": false,
+            "children": [
+              {
+                "enabled": true,
+                "focused": false,
+                "role": "AXMenu",
+                "selected": false,
+                "children": [
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false,
+                    "title": "My Drive - Google Drive"
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "enabled": true,
+            "focused": false,
+            "role": "AXMenuBarItem",
+            "selected": false,
+            "children": [
+              {
+                "enabled": true,
+                "focused": false,
+                "role": "AXMenu",
+                "selected": false,
+                "children": [
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false,
+                    "children": [
+                      {
+                        "enabled": true,
+                        "focused": false,
+                        "role": "AXMenu",
+                        "selected": false,
+                        "children": [
+                          {
+                            "enabled": true,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "enabled": true,
+            "focused": false,
+            "role": "AXMenuBarItem",
+            "selected": false,
+            "children": [
+              {
+                "enabled": true,
+                "focused": false,
+                "role": "AXMenu",
+                "selected": false,
+                "children": [
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "enabled": true,
+            "focused": false,
+            "role": "AXMenuBarItem",
+            "selected": false,
+            "children": [
+              {
+                "enabled": true,
+                "focused": false,
+                "role": "AXMenu",
+                "selected": false,
+                "children": [
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false,
+                    "title": "My Drive - Google Drive"
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "enabled": true,
+            "focused": false,
+            "role": "AXMenuBarItem",
+            "selected": false,
+            "children": [
+              {
+                "enabled": true,
+                "focused": false,
+                "role": "AXMenu",
+                "selected": false,
+                "children": [
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false,
+                    "children": [
+                      {
+                        "enabled": true,
+                        "focused": false,
+                        "role": "AXMenu",
+                        "selected": false,
+                        "children": [
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false,
+                    "children": [
+                      {
+                        "enabled": true,
+                        "focused": false,
+                        "role": "AXMenu",
+                        "selected": false,
+                        "children": [
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          },
+                          {
+                            "enabled": false,
+                            "focused": false,
+                            "role": "AXMenuItem",
+                            "selected": false
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": false,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false,
+                    "title": "My Drive - Google Drive"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "enabled": true,
+            "focused": false,
+            "role": "AXMenuBarItem",
+            "selected": false,
+            "children": [
+              {
+                "enabled": true,
+                "focused": false,
+                "role": "AXMenu",
+                "selected": false,
+                "children": [
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false,
+                    "children": [
+                      {
+                        "enabled": true,
+                        "focused": false,
+                        "role": "AXTextField",
+                        "subrole": "AXSearchField"
+                      },
+                      {
+                        "enabled": true,
+                        "focused": false,
+                        "role": "AXTable",
+                        "children": [
+                          {
+                            "role": "AXColumn",
+                            "selected": false
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  },
+                  {
+                    "enabled": true,
+                    "focused": false,
+                    "role": "AXMenuItem",
+                    "selected": false
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "truncated": false,
+  "derived_evidence": true,
+  "redaction": "Only roles, states, ordered topology and allowlisted Drive navigation text retained. Other text, identifiers, PID and geometry omitted."
+}

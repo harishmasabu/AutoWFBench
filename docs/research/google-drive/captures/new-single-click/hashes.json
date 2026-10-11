@@ -1,0 +1,14 @@
+[
+  {
+    "file": "003-before.stdout",
+    "sha256": "6bdc48c1109a3462b42f03544ce993409ee81b2490a7e9f77a29062331114dac"
+  },
+  {
+    "file": "009-after-immediate.stdout",
+    "sha256": "6bdc48c1109a3462b42f03544ce993409ee81b2490a7e9f77a29062331114dac"
+  },
+  {
+    "file": "010-after-settled.stdout",
+    "sha256": "8d4b700349836216c127245c4e903b7c9fa65ee6496d905e40a4d74d1cc50ccf"
+  }
+]

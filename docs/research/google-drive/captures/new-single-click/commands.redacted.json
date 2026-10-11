@@ -1,0 +1,157 @@
+[
+  {
+    "argv": [
+      "<EXECUTABLE>",
+      "apps"
+    ],
+    "started": "2026-10-11T11:00:09.766321+00:00",
+    "ended": "2026-10-11T11:00:09.804851+00:00",
+    "exit_code": 0
+  },
+  {
+    "argv": [
+      "<EXECUTABLE>",
+      "-l",
+      "JavaScript",
+      "-e",
+      "ObjC.import('AppKit'); $.NSWorkspace.sharedWorkspace.frontmostApplication.processIdentifier"
+    ],
+    "started": "2026-10-11T11:00:09.805237+00:00",
+    "ended": "2026-10-11T11:00:09.876344+00:00",
+    "exit_code": 0
+  },
+  {
+    "argv": [
+      "<EXECUTABLE>",
+      "tree",
+      "--pid",
+      "<CHROME_PID>",
+      "--depth",
+      "32",
+      "--max-nodes",
+      "10000"
+    ],
+    "started": "2026-10-11T11:00:09.876479+00:00",
+    "ended": "2026-10-11T11:00:10.125870+00:00",
+    "exit_code": 0
+  },
+  {
+    "argv": [
+      "<EXECUTABLE>",
+      "find",
+      "--pid",
+      "<CHROME_PID>",
+      "--title",
+      "New",
+      "--role",
+      "AXButton",
+      "--depth",
+      "32",
+      "--limit",
+      "100"
+    ],
+    "started": "2026-10-11T11:00:10.133829+00:00",
+    "ended": "2026-10-11T11:00:10.269179+00:00",
+    "exit_code": 0
+  },
+  {
+    "argv": [
+      "<EXECUTABLE>",
+      "inspect",
+      "--pid",
+      "<CHROME_PID>",
+      "--path",
+      "3.0.0.0.0.0.0.1.0"
+    ],
+    "started": "2026-10-11T11:00:10.269382+00:00",
+    "ended": "2026-10-11T11:00:10.286750+00:00",
+    "exit_code": 0
+  },
+  {
+    "argv": [
+      "<EXECUTABLE>",
+      "inspect",
+      "--pid",
+      "<CHROME_PID>",
+      "--path",
+      "3.0.0.0.0.0.0.1.0.0.2.2.0"
+    ],
+    "started": "2026-10-11T11:00:10.286901+00:00",
+    "ended": "2026-10-11T11:00:10.303070+00:00",
+    "exit_code": 0
+  },
+  {
+    "argv": [
+      "<EXECUTABLE>",
+      "-l",
+      "JavaScript",
+      "-e",
+      "ObjC.import('AppKit'); $.NSWorkspace.sharedWorkspace.frontmostApplication.processIdentifier"
+    ],
+    "started": "2026-10-11T11:00:10.303236+00:00",
+    "ended": "2026-10-11T11:00:10.333039+00:00",
+    "exit_code": 0
+  },
+  {
+    "argv": [
+      "<EXECUTABLE>",
+      "click",
+      "--pid",
+      "<CHROME_PID>",
+      "--x",
+      "66.5",
+      "--y",
+      "258.0"
+    ],
+    "started": "2026-10-11T11:00:10.333291+00:00",
+    "ended": "2026-10-11T11:00:10.356710+00:00",
+    "exit_code": 0
+  },
+  {
+    "argv": [
+      "<EXECUTABLE>",
+      "tree",
+      "--pid",
+      "<CHROME_PID>",
+      "--depth",
+      "32",
+      "--max-nodes",
+      "10000"
+    ],
+    "started": "2026-10-11T11:00:10.356831+00:00",
+    "ended": "2026-10-11T11:00:10.582895+00:00",
+    "exit_code": 0
+  },
+  {
+    "argv": [
+      "<EXECUTABLE>",
+      "tree",
+      "--pid",
+      "<CHROME_PID>",
+      "--depth",
+      "32",
+      "--max-nodes",
+      "10000"
+    ],
+    "started": "2026-10-11T11:00:11.594028+00:00",
+    "ended": "2026-10-11T11:00:11.728522+00:00",
+    "exit_code": 0
+  },
+  {
+    "argv": [
+      "<EXECUTABLE>",
+      "find",
+      "--pid",
+      "<CHROME_PID>",
+      "--title",
+      "New folder",
+      "--depth",
+      "32",
+      "--limit",
+      "100"
+    ],
+    "started": "2026-10-11T11:00:11.729382+00:00",
+    "ended": "2026-10-11T11:00:11.763037+00:00",
+    "exit_code": 0
+  }
+]
